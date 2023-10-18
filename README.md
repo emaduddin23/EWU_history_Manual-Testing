@@ -1,5 +1,5 @@
 
-# Ticket Management System
+# EWU_History_Manual-testing
 
 This is a manual testing sample, done on the East West University Website with The option 'History'.
 
