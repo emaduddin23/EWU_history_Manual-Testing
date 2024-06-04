@@ -7,7 +7,7 @@ This is a manual testing sample, done on the East West University Website with T
 ## Requirements:
 - Knowledge of manual testing.
 
-## In this Project for web application type of work is done. It's given below:
+## In this Project the web application type of work is done. It's given below:
 
 This is a practice project. In this project, the feature is tested on the 'History' option.
 
